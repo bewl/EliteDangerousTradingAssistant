@@ -17,3 +17,4 @@ Commander has.
 
 *Adviser will plot trade routes based on manifest data. A full route is a circuit of manifests starting and ending at
 the same system and station. The key metric to the routes is Average Profit per Trip.
+
