@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<GameData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <StarSystems>
+    <StarSystem>
+      <Name>Eranin</Name>
+      <Stations>
+        <Station>
+          <Name>Azeban City</Name>
+          <Commodities>
+            <Commodity>
+              <Name>Hydrogen Fuels</Name>
+              <BuyPrice>19</BuyPrice>
+              <SellPrice>17</SellPrice>
+              <Supply>137271</Supply>
+              <LastUpdated>2014-06-25T17:27:42.14328-07:00</LastUpdated>
+            </Commodity>
+          </Commodities>
+        </Station>
+      </Stations>
+    </StarSystem>
+  </StarSystems>
+  <Trades />
+  <OptimalManifests />
+  <UserManifests />
+  <OptimalRoutes />
+  <UserRoutes />
+  <Capital>0</Capital>
+  <CargoSlots>0</CargoSlots>
+</GameData>

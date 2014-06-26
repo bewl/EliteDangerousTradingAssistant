@@ -1,0 +1,24 @@
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\EliteDangerousTradingAssistant.exe.config
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\EliteDangerousTradingAssistant.exe
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\EliteDangerousTradingAssistant.pdb
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.csprojResolveAssemblyReference.cache
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.Main.resources
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.Properties.Resources.resources
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.csproj.GenerateResource.Cache
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.exe
+c:\users\brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.pdb
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\Graphics\EliteDangerousIcon.ico
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.AddEditCommodityDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.AddStationDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.AddSystemDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.ChooseExistingCommodityDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\Pre v 0_5 (Incomplete Data)\June032014.edassistant
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\Pre v 0_5 (Incomplete Data)\June042014.edassistant
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\Pre v 0_5 (Incomplete Data)\June052014.edassistant
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\Pre v 0_5 (Incomplete Data)\June062014.edassistant
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\Pre v 0_5 (Incomplete Data)\June072014.edassistant
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.TradesManifestsRoutesDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.ManifestEditorDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\SaveData_06082014.edassistant
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\obj\Debug\EliteDangerousTradingAssistant.RouteEditorDialog.resources
+C:\Users\Brandon\documents\visual studio 2013\Projects\EliteDangerousTradingAssistant\EliteDangerousTradingAssistant\bin\Debug\SaveData\SaveData_06252014.edassistant
